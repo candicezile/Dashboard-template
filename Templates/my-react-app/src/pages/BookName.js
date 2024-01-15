@@ -25,8 +25,15 @@ const BookName = () => {
       <main>
         <nav>
           <ul>
-            <Link to="/dashboard">Dashboard</Link><br></br>
-            <Link to="/home">Home</Link><br></br>
+          <button className='button4'>
+          <Link to="/dashboard">Dashboard</Link><br></br>
+
+          </button>
+          <button className='button4'>
+          <Link to="/home">Home</Link><br></br>
+
+          </button>
+
           </ul>
         </nav>
       </main>

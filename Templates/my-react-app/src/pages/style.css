@@ -55,3 +55,18 @@ body {
   text-decoration: none;
   margin: 4px 2px;
   }
+
+.button5{
+    padding: 15px 116px;
+    text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  }
+
+  .button4{
+    display: inline;
+    padding: 1px 15px;
+    text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  }
